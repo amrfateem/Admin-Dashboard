@@ -2,6 +2,8 @@
 
 This is a simple admin dashboard created using React Admin library and Material UI. The dashboard fetches data from JSONPlaceholder API. The project is initialized with Vite React template.
 
+For live link auth, Enter any data
+
 ## Features
 
 - Display users, posts, and albums data.
