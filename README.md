@@ -1,0 +1,2 @@
+# admin
+ Admin dashboard example
